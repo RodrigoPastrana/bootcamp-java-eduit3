@@ -8,5 +8,9 @@
   <description>primer modulo de todo el bootcamp</description>
   <modules>
   	<module>app-web</module>
+  	<module>app-services</module>
+  	<module>app-daos</module>
+  	<module>app-domain</module>
+  	<module>app-web-ejercicios</module>
   </modules>
 </project>
